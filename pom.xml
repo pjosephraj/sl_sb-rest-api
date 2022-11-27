@@ -30,6 +30,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>spring-boot-with-aws</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
